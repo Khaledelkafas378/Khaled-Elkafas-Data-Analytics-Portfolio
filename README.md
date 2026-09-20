@@ -51,6 +51,7 @@ Enterprise-grade Power BI dashboard developed to analyze real estate sales, inst
 ## 2. Sales Analysis Dashboard — Power BI
 
 **Power BI | Power Query | DAX | Data Modeling**
+![Sales Dashboard](sales-dashboard.png)
 
 Interactive Power BI dashboard designed to analyze sales performance, revenue, products, customers, and business trends.
 
