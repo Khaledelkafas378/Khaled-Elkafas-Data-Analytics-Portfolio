@@ -24,15 +24,16 @@ This portfolio showcases selected projects covering sales analytics, customer be
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### 1. Real Estate Collection & Financial Risk Intelligence Dashboard
+## 1. Real Estate Collection & Financial Risk Intelligence Dashboard
 
-**Tools:** Power BI | Power Query | DAX | Data Modeling | GitHub
+**Power BI | Power Query | DAX | Data Modeling | GitHub**
 
 Enterprise-grade Power BI dashboard developed to analyze real estate sales, installment collections, outstanding balances, and financial exposure across 8 projects.
 
-**Key Features**
+### Key Features
+
 - Unified and standardized multiple project datasets using Power Query
 - Designed a dimensional data model with Customer, Unit, and Date dimensions
 - Developed DAX measures for sales, collections, outstanding balances, and financial exposure
@@ -41,44 +42,43 @@ Enterprise-grade Power BI dashboard developed to analyze real estate sales, inst
 - Analyzed Overall, Cash, Bank, and Bank-Wise performance
 - Created Global Summary and Collection by Date analysis
 
-**Repository:**  
-[View Project on GitHub](https://github.com/Khaledelkafas378/real-estate-collection-financial-risk-dashboard)
+**[View Project →](https://github.com/Khaledelkafas378/real-estate-collection-financial-risk-dashboard)**
 
 ---
 
-### 2. Sales Analysis Dashboard — Power BI
+## 2. Sales Analysis Dashboard — Power BI
 
-**Tools:** Power BI | Power Query | DAX | Data Modeling
+**Power BI | Power Query | DAX | Data Modeling**
 
 Interactive Power BI dashboard designed to analyze sales performance, revenue, products, customers, and business trends.
 
-**Key Features**
+### Key Features
+
 - Data cleaning and transformation
 - Structured data modeling
 - KPI development using DAX
 - Sales and revenue analysis
 - Interactive business performance visualization
 
-**Repository:**  
-[View Project on GitHub](https://github.com/Khaledelkafas378/Sales-Dashboard)
+**[View Project →](https://github.com/Khaledelkafas378/Sales-Dashboard)**
 
 ---
 
-### 3. Customer Churn Analysis Dashboard — Power BI
+## 3. Customer Churn Analysis Dashboard — Power BI
 
-**Tools:** Power BI | Power Query | DAX | Data Modeling
+**Power BI | Power Query | DAX | Data Modeling**
 
 Interactive dashboard focused on customer churn, retention, customer behavior, and churn patterns.
 
-**Key Features**
+### Key Features
+
 - Customer data cleaning and transformation
 - Churn and retention analysis
 - Customer segmentation
 - KPI development using DAX
 - Interactive churn trend analysis
 
-**Repository:**  
-[View Project on GitHub](https://github.com/Khaledelkafas378/customer-churn-analysis-power-bi)
+**[View Project →](https://github.com/Khaledelkafas378/customer-churn-analysis-power-bi)**
 
 ---
 
