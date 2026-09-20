@@ -29,6 +29,8 @@ This portfolio showcases selected projects covering sales analytics, customer be
 ## 1. Real Estate Collection & Financial Risk Intelligence Dashboard
 
 **Power BI | Power Query | DAX | Data Modeling | GitHub**
+![Real Estate Dashboard](real-estate-dashboard.png)
+
 
 Enterprise-grade Power BI dashboard developed to analyze real estate sales, installment collections, outstanding balances, and financial exposure across 8 projects.
 
