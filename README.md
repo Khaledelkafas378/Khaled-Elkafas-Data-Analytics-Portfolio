@@ -70,6 +70,7 @@ Interactive Power BI dashboard designed to analyze sales performance, revenue, p
 ## 3. Customer Churn Analysis Dashboard — Power BI
 
 **Power BI | Power Query | DAX | Data Modeling**
+![Customer Churn Dashboard](customer-churn-dashboard.png)
 
 Interactive dashboard focused on customer churn, retention, customer behavior, and churn patterns.
 
